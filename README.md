@@ -7,7 +7,7 @@ Train Data_loader need to be downlad here: https://drive.google.com/file/d/1KcLD
 
 To run the transformer model:
 
-1- Download GitHub repository.
+1- Download GitHub repository and dataset.
 
 2- Install Python 3.7 and PyTorch.
 
