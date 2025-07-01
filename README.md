@@ -13,7 +13,9 @@ To run the transformer model:
 
 2- Install Python 3.7 and PyTorch.
 
-3- Run the Transformer.py file.
+3- Run the Lan_prepro.py file to data pre-processing.
+
+4- Run the test_primeirotransformer.py file.
 
 ===============
 ====================
