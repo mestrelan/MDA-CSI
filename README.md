@@ -5,6 +5,8 @@ This repository proposed to identify the activity of a person in a room through 
 
 Train Data_loader need to be downlad here: https://drive.google.com/file/d/1KcLDYsL6GIM2sZw2GzVrXWSvrgPYybhH/view?usp=sharing
 
+Raw CSI data per person: https://drive.google.com/drive/folders/1urnsVNvPtzUoIGrNolpwRqMo53Y24Vt9?usp=sharing
+
 ======================
 
 To run the transformer model:
