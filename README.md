@@ -18,6 +18,8 @@ To run the transformer model:
 3- Run the test4amplitude48canais.py file.
 
 ===============
+
+Lan_prepro.py is a code example to unpack the raw CSI data, train and evaluate the model.
 ====================
 
 Jesus answered, ‘I am the way and the truth and the life. No-one comes to the Father except through me.
