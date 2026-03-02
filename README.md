@@ -20,7 +20,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://ww
 * **[Download MDA-CSI & Dataloaders (Google Drive)](https://drive.google.com/drive/folders/1ze26yuKVfrVItPifkPjPCfkEfP4HJzE2?usp=sharing)**
 ---
 ## MDA-CSI
----
 
 ### 🚀 How to Run
 
