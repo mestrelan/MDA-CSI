@@ -43,6 +43,7 @@ python test4amplitude48canais.py
 ```
 
 **Data Unpacking and Training**
+
 If you want to unpack the raw CSI data, train, and evaluate the model from scratch, you can use the provided example script:
 
 ```bash
