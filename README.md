@@ -19,6 +19,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://ww
 * **Large Files:** Due to GitHub's file size limitations, some large files (specifically the training dataloaders and pre-processed data) are hosted externally:
 * **[Download MDA-CSI & Dataloaders (Google Drive)](https://drive.google.com/drive/folders/1ze26yuKVfrVItPifkPjPCfkEfP4HJzE2?usp=sharing)**
 * **[Download DFS-CSI & Dataloaders (Google Drive)](https://drive.google.com/drive/folders/1WNCZlLRyjNXfv9orHvYkqLHaDwDKYHoW?usp=sharing)**
+* **Processed Data:** This repository contains the CSI data already processed according to the logic defined in `LoadData4.py`.
 ---
 ## MDA-CSI and DFS-CSI
 
