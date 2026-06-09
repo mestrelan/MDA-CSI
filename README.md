@@ -61,11 +61,14 @@ If you use this code or dataset in your research, please cite the following pape
 
 ```bibtex
 @INPROCEEDINGS{11302651,
-  author={Dos Santos, Allan Costa Nascimento and others},
+  author={Dos Santos, Allan Costa Nascimento and Soares, Pamella and Galdino, Iandra and Soto, Julio C. H. and de Sousa, Cledson and Ramos, Taiane C. and de Albuquerque, Celio V. N. and Guerra, Raphael and Fernandes, Natalia C. and Muchaluat-Saade, Débora C. and Ghinea, Gheorghita},
   booktitle={2025 13th Wireless Days Conference (WD)}, 
   title={A Transformer-Based Methodology for Person-Independent Human Activity Recognition Using Wi-Fi Csi}, 
   year={2025},
+  volume={},
+  number={},
   pages={1-9},
+  keywords={Wireless communication;Training;Wireless sensor networks;Accuracy;Transformers;Indoor environment;Human activity recognition;Communication system security;Wireless fidelity;Channel state information;Transformer model;channel state information;Wi-Fi;wireless sensing system;proactive security;human activity recognition},
   doi={10.1109/WD67713.2025.11302651}}
 
 ```
@@ -74,11 +77,14 @@ If you use this code or dataset in your research, please cite the following pape
 
 ```bibtex
 @INPROCEEDINGS{10880838,
-  author={dos Santos, Allan Costa Nascimento and others},
-  booktitle={2024 IEEE International Conference on E-health Networking, Application \& Services (HealthCom)}, 
+  author={dos Santos, Allan Costa Nascimento and de Paula, Karina and Vidal, Marcos T. L. and da Silva, João M. M. and de Sousa, Cledson and Fernandes, Leandro A. F. and de Castro, Tiago B. and Bedo, Marcos and Kohwalter, Troy C. and Bastos, Carlos A. M. and Seixas, Flavio L. and Fernandes, Natalia C. and Muchaluat-Saade, Débora C. and Ghinea, Gheorghita},
+  booktitle={2024 IEEE International Conference on E-health Networking, Application & Services (HealthCom)}, 
   title={A Computer Vision Model to Support Individuals with Disabilities Within University Campuses}, 
   year={2024},
+  volume={},
+  number={},
   pages={1-7},
+  keywords={Measurement;Graphics processing units;Cameras;Feature extraction;Routing protocols;Safety;Security;Personnel;Object recognition;Information systems;Fall Detection;Computer Vision;Healthcare;Human Activity Recognization;Campus Safety;Proactive Security},
   doi={10.1109/HealthCom60970.2024.10880838}}
 
 ```
