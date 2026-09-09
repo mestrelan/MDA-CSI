@@ -57,6 +57,20 @@ python Lan_prepro.py
 
 If you use this code or dataset in your research, please cite the following papers:
 
+**DFS-CSI Methodology (ANTE 2026):**
+
+```bibtex
+@article{costa2026transformer,
+  title={A transformer-based framework for device-free human activity recognition using Wi-Fi CSI},
+  author={Costa Nascimento dos Santos, Allan and Soares, Pamella and Galdino, Iandra and Ramos, Taiane C and Albuquerque, C{\'e}lio and Guerra, Raphael and Fernandes, Natalia C and Muchaluat-Saade, D{\'e}bora C and Ghinea, Gheorghita},
+  journal={Annals of Telecommunications},
+  pages={1--28},
+  year={2026},
+  publisher={Springer}
+}
+
+```
+
 **MDA-CSI Methodology (WD 2025):**
 
 ```bibtex
